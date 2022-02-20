@@ -1,3 +1,4 @@
+```
 Assignment name  : union
 Expected files   : union.c
 Allowed functions: write
@@ -25,3 +26,4 @@ $>
 $>./union "rien" | cat -e
 $
 $>
+```
