@@ -1,3 +1,4 @@
+```
 Assignment name  : inter
 Expected files   : inter.c
 Allowed functions: write
@@ -21,3 +22,4 @@ $>./inter "nothing" "This sentence hides nothing" | cat -e
 nothig$
 $>./inter | cat -e
 $
+```
