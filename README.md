@@ -1,6 +1,6 @@
-# Exam-Rank-02
+# Exam-Rank-03
 
-_Exam Rank 02 for 42 school_
+_Exam Rank 03 for 42 school_
 
 ## Session  feb 2022
 
