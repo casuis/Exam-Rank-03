@@ -10,5 +10,6 @@ _All subjects are in their respectives docs_
 
 _Inter is good and get_next_line should be ok._
 
-**! Don't forget to compile with ```-Wall -Wextra -Werror``` when you test your codes** 
+>[!WARNING]
+> Don't forget to compile with ```-Wall -Wextra -Werror``` when you test your codes
 
